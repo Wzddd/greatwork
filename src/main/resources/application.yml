@@ -1,3 +1,3 @@
 spring:
   resources:
-    static-locations: classpath:templates/,classpath:static/
+    static-locations: classpath:templates/html,classpath:static
